@@ -25,7 +25,7 @@ Python (Pandas): Data cleaning and exploratory data analysis (EDA)
 
 MySQL: Storing cleaned data and answering business questions with SQL queries
 
-Power BI: Creating an interactive sales dashboard
+Power BI: Creating a sales dashboard
 
 Jupyter Notebook: Writing and running the Python analysis
 
